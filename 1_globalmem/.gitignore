@@ -1,0 +1,11 @@
+*.bak
+*.o
+*.ko
+modules.order
+
+Module.symvers
+*.mod.c
+*.mod
+*.cmd
+log.txt
+test
